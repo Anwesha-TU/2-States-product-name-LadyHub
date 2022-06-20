@@ -66,9 +66,7 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 
 
 ## Our Team
-- Sagarika Mondol
-- Sainik Khaddar
-- Adwaita Raj Modak
+- Sagarika Mondal
 - Anwesha Chakraborty
 
 

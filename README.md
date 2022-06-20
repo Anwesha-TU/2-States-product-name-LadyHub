@@ -23,7 +23,7 @@ Our idea is to build a website which serves as a complete guide to a women's men
 * Community Forum
 * Expert Consultancy
 * Video Chat with Experts
-* Medical History
+* Recording Medical History
 * Shop Health, Fitness and Wellness Products
 
 
